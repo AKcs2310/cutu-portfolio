@@ -1197,6 +1197,11 @@ form .button-area {
     padding: 1.2rem;
   }
 }
+img {
+  object-fit: cover;
+  border-radius: 1rem;
+}
+
 /* footer section ends */
 
 /* common media queries starts*/
